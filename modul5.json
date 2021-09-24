@@ -1,0 +1,97 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "nama": "Python",
+        "img": "https://static.cdn-cdpl.com/source/4/header-python-logo-flat-image700x350-crop-image700x350-crop-1-image(700x350-crop)-image(700x350-crop).png",
+        "info": "Python banyak digunakan oleh perusahaan besar dalam pengembangannya seperti NASA, Instragam, Google, Yahoo, Reddit, dan juga situs streaming video populer YouTube. Jika dikategorikan dalam tingkatan bahasa komputer, Pyhton tergolong ke dalam bahasa pemrograman tingkat tinggi. Sama seperti Java, Phyton bisa  untuk membangun aplikasi dari website dan mobile. Popularitas Python sebesar 29.72% dari total responden berdasarkan pencarian yang dilakukan pada Google Search. Jika dilihat dari pengguna Facebook, di Indonesia terdapat grup khusus membahas bahasa Python dan sudah lebih dari 23.000 akun yang bergabung. Apabila Anda baru memulai belajar tentang pemrograman, Python termasuk bahasa yang cukup mudah untuk dipelajari. Selain itu masih banyak kelebihnya seperti, sintaks yang digunakan cukup sederhana. Pemuatan kembali secara dinamis modul phyton seperti memodifikasi aplikasi tanpa menghentikannya. Meskipun mempunyai banyak kelebihan, masih ada beberapa kekurangan Python yang mungkin akan sedikit menyulitkan, seperti beberapa penugasan terdapat diluar dari jangkauan python. Seperti bahasa pemrograman dinamis lainnya, Python tidak secepat atau efisien sebagai statis, tidak seperti bahasa pemrograman kompilasi seperti bahasa C."
+      },
+      {
+        "id": 2,
+        "nama": "Java",
+        "img": "https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2020/11/28124234/Java-logo-1024x614.jpeg",
+        "harga": "Rp. 4,1 jutaan",
+        "info": "Tidak hanya berfungsi untuk membuat aplikasi desktop, Java juga digunakan untuk membuat aplikasi mobile. Java merupakan bahasa pemrograman website yang populer. Persentase pencarian sebesar 19.03% dari total pencarian yang dilakukan pada Google. Java merupakan dikembangkan pada tahun 1991. Sejak 23 Mei 1995 dirilis, Java langsung naik dan menjadi bahasa pemrograman favorit. Java memberikan nuansa baru dalam perkembangan teknologi informasi. Ditambah, pada saat itu Sun memberikan source code Java secara cuma-cuma melalui internet. Kekuatan open source membuat Java mudah berkembang dan dikenal oleh banyak pengembang. Oleh karena itu Java adalah salah satu bahasa pemrograman yang wajib dikuasai. Hingga saat ini Java menjadi bahasa pemrograman yang hampir setiap pengembang mengetahui atau bahkan pernah menggunakannya. Selain digunakan sebagai bahasa pemrograman website, Java banyak dimanfaatkan untuk membuat aplikasi desktop maupun mobile."
+      },
+      {
+        "id": 3,
+        "nama": "Javascript",
+        "img": "https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2020/11/28124318/JavaScript-logo.png",
+        "harga": "Rp. 5,2 jutaan",
+        "info": "Sejarah JavaScript dimulai sekitar tahun 1994, ketika internet dan website sedang mengalami perkembangan yang pesat. Website pada saat itu umumnya dibuat menggunakan bahasa pemograman PERL yang pemrosesannya hanya bisa dilakukan di sisi web server. Javascript menempati urutan ketiga dengan persentase pencarian 8.2%. Fungsi Javascript termasuk istimewa menurut saya, karena mampu mengembangkan website yang menarik dan interaktif. Maka banyak saat ini banyak website yang menggunakan Javascript pada kode program di dalamnya. Tidak mengherankan, karena Javascript pada awalnya memang dikembangkan dengan tujuan untuk membuat sebuah website. "
+      },
+      {
+        "id": 4,
+        "nama": "C#",
+        "img": "https://cdn3.macworld.co.uk/cmsdata/features/3640347/learn_c_sharp_mac_osx_thumb800.jpg",
+        "info": "Pada akhir dekade 1990-an, Microsoft membuat program Microsoft Visual J++ sebagai sebuah langkah percobaan untuk menggunakan Java di dalam sistem operasi Windows untuk meningkatkan antarmuka dari Microsoft Component Object Model (COM). Selanjutnya, terdapat C# dengan popularitas pencarian sebesar 7.28%. C# atau dibaca C Sharp menggabungkan prinsip C dan C++ dan dikembangkan oleh Miscrosoft. Jadi bahasa ini lebih banyak digunakan pada platform Windows untuk berjalan pada platform .NET. Karena tidak jauh dari C maupun C++, bahasa pemograman ini juga banyak digunakan untuk pengembangan game video. Banyaknya operator serta fleksibilitas penulisan program kadang-kadang membingungkan pemakai ketika menggunakan bahasa ini, sedangkan bagi pemula pada umumnya akan kesulitan menggunakan pointer."
+      },
+      {
+        "id": 5,
+        "nama": "PHP",
+        "img": "https://niagaspace.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2019/11/bahasa-pemrograman-php.png",
+        "info": "Popularitas PHP sebagai bahasa pemrograman untuk website sebesar 6.09% pada pencarian di Google Search dan lebih dari 10 juta website di dunia sudah menggunakan bahasa ini. Sejak dikembangkan pada tahun 1994, PHP menjadi bahasa komputer yang populer di kalangan web developer untuk mengembangkan website. Banyak website besar menggunakan bahasa ini sebagai salah satu komponennya. Sebagai contoh Content Management System (CMS) seperti WordPress dan Joomla dibuat dengan bahasa pemrograman dasar PHP. Facebook dan Wikipedia juga menjadi salah satu penggunanya. PHP adalah sebuah bahasa script yang tidak melakukan sebuah kompilasi dalam penggunaannya. Web Server yang mendukung PHP dapat ditemukan dimana–mana dari mulai Apache, IIS, Lighttpd, hingga Xitami dengan konfigurasi yang relatif mudah. Dalam sisi pengembangan lebih mudah, karena banyaknya milis–milis dan developer yang siap membantu dalam pengembangan. PHP memiliki kelemahan security tertentu apabila programmer tidak jeli dalam melakukan pemrograman dan kurang memperhatikan isu dan konfigurasi PHP. Tidak ideal untuk pengembangan skala besar. Berbeda dengan Java, fungsi bahasa pemrograman ini tidak memiliki sistem pemrograman berorientasi objek yang sesungguhnya (sampai versi 4 ini). Tidak bisa memisahkan antara tampilan dengan logik dengan baik (walau penggunaan template dapat memperbaikinya)."
+      },
+      {
+        "id": 6,
+        "nama": "C",
+        "img": "https://www.duniailkom.com/wp-content/uploads/2013/09/C-featured-duniailkom.png",
+        "info": "Jika Anda seorang programmer, pasti sudah pernah mendengar bahasa pemrograman ini. Ya, C merupakan bahasa pemrograman yang sudah lama eksis di dunia komputer. Bahasa ini menjadi dasar dari pengembangan bahasa komputer lainnya. Sampai dengan saat ini bahasa C masih menjadi primadona beberapa orang untuk mengembangkan website atau aplikasi lainnya. Persentase pencarian bahasa C pada Google sebesar 5.91%. Pembuat bahasa C adalah Dennis Rithcie sekitar tahun 1972 untuk Sistem Operasi Unix di Bell Telephone Laboratories. Saking lamanya bahasa C eksis, beberapa pengguna menyebut bahasa C bapak dari bahasa komputer lainnya. Kelebihan dari bahasa C seperti banyaknya operator yang dapat Anda temui di dalam C untuk manipulasi data. Struktur data pada bahasa C terstruktur, sehingga mudah dikembangkan dan mudah dipahami. Sedangkan kekurangannya adalah sedikit membingungkan dari bahasa C karena banyaknya fleksibilitas penulisan dan operator. Bagi pemula akan sedikit kesulitan dalam memahami pointer yang ada pada bahasa ini. Karena bahasa pemrograman lain mungkin tidak mengenal istilah pointer. Padahal salah satu kemampuan yang paling menonjol dari bahasa C adalah pointer."
+      },
+      {
+        "id": 7,
+        "nama": "R",
+        "img": "https://www.aplikasipc.com/wp-content/uploads/2015/04/Bahasa-Pemrograman-R.png",
+        "info": "Bahasa R pertama kali rilis pada tahun 1993, namun kepopulerannya mulai muncul pada beberapa tahun ini untuk keperluan big data. Bahasa R terkadang digunakan dalam pengembangan website. Namun bahasa ini tidak berdiri sendiri, melainkan dengan bantuan bahasa pemrograman lainnya. Trend pencarian pada Google Search menempatkan R sebesar 3.72%. Persentase tersebut belum tentu bertujuan menggunakan R untuk kebutuhan membuat website, tetapi digunakan dalam bidang lain seperti pengelolaan data. Bahasa R merupakan bahasa pemrograman berbasis interpreter, sehingga eksekusi suatu aplikasi/fungsi yang ditulis dengan bahasa R terutama aplikasi/fungsi yang membutuhkan program code yang panjang akan membutuhkan waktu yang relatif lama. Masalah lain yang terungkap terkait dengan proses pembaharuan dari suatu baris dalam frame data dari suatu proses looping (pengulangan) suatu program."
+      },
+      {
+        "id": 8,
+        "nama": "Objective-C",
+        "img": "https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png",
+        "info": "Objective-C merupakan bahasa yang berorientasi pada objek yang awalnya digunakan oleh Apple untuk mengembangkan perangkatnya. Itulah mengapa iOS dikembangkan dengan bahasa Objective-C. Objective – C merupakan bahasa pemrograman yang dikembangkan pada era 1983, oleh Brad Cox dan Tom Love. Karena berorientasi pada objek, Objective-C terkadang dipakai untuk membuat website. Meskipun tidak banyak yang menggunakannya dan hanya berkisar antara 2.47% pada popularitas pencarian. Bahasa ini merupakan bahasa utama yang digunakan oleh Apple untuk mengembangkan sistem operasi OS X dan iOS serta untuk mengembangkan Application Programming Interfaces (API) perusahaan tersebut. Meskipun demikian, bahasa pemrograman ini hanya dapat digunakan untuk membuat sesuatu yang terbatas. Bahkan, banyak platform tidak dapat dikembangkan dengan menggunakan Objective-C seperti Android."
+      },
+      {
+        "id": 9,
+        "nama": "Swift",
+        "img": "https://teknojurnal.com/wp-content/uploads/2016/04/Swift-banner-e1460119533524.jpg",
+        "harga": "Rp. 9,6 jutaan",
+        "info": "Saat WWDC tahun 2014, bahasa Swift dikenalkan dan menjadi salah satu bahasa pemrograman yang populer di dunia. Tidak hanya itu, berdasarkan survei dari StackOverflow, Swift menjadi bahasa komputer paling favorite kedua dan menjadi bahasa komputer paling populer nomer tiga saat itu. Bahasa Swift merupakan bahasa pengantar untuk pengembang Mac, dan iOS dan menjadi platform utama Apple. Sehingga bahasa Swift juga dirancang untuk bisa terhubung dengan bahasa pemrograman Apple lainnya, yaitu Objective-C. Bahasa komputer Swift dianggap aman. Hal ini dikarenakan Swift memiliki manajemen memori yang sangat bagus. Ini membuat para developer tidak perlu takut permasalahan tentang manajemen memori."
+      },
+      {
+        "id": 10,
+        "nama": "Matlab",
+        "img": "https://niagaspace.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2019/11/bahasa-pemrograman-matlab.png",
+        "info": "Selanjutnya adalah Matlab yang mempunyai persentase pencarian sebanyak 1.79%. Matlab (Matrix Laboratory) merupakan program yang digunakan untuk melakukan analisis juga komputasi numerik. Matlab dibuat sekitar tahun 1970 oleh Cleve Moler. Pada saat ini Moler merancang bahasa ini untuk memberikan akses mahasiswa dalam memakai LINPACK dan EISPACK tanpa harus mempelajari Fotran. Linpack merupakan librari komputasi numerik yang ditulis dari bahasa Fotran. Karya Moler langsung mendapatkan sambutan hangat dan menyebar ke banyak universitas. Meskipun terkadang digunakan dalam pembuatan website, kebanyakan bahasa komputer Matlab digunakan dalam bidang matematika dan statistika."
+      },
+      {
+        "id": 11,
+        "nama": "TypeScript",
+        "img": "https://i.pinimg.com/originals/e1/44/35/e14435e3532a6b5fd1d31d16fadf59bd.jpg",
+        "info": "Mungkin tidak banyak yang mengenal bahasa pemrograman ini. TypeScript adalah suatu bahasa pemrograman yang dibangun berdasarkan JavaScript. Perbedaannya, pada TypeScript terdapat tambahan fitur strong-typing & konsep pemrograman OOP klasik (class, interface). Pada dokumentasinya, TypeScript disebut sebagai super-set dari JavaScript. Jadi, kode JavaScript adalah kode TypeScript juga. TypeScript mempunyai kepopuleran dalam pencarian sebesar 1.79 %."
+      },
+      {
+        "id": 12,
+        "nama": "VBA",
+        "img": "https://4.bp.blogspot.com/-MAffAKPn884/V_2h25U7gII/AAAAAAAAAB4/XucDKh3NvJgCz5lnbiFWDsxgeaRdVIxGACLcB/s1600/vba.png",
+        "info": "Microsoft Visual Basic for Applications (VBA) adalah sebuah turunan Visual Basic yang dikembangkan oleh Microsoft dan dirilis pada tahun 1993. VBA merupakan kombinasi yang terintegrasi antara lingkungan pemrograman (Visual Basic Editor) dengan bahasa pemrograman (Visual Basic) yang memudahkan user untuk mendesain dan membangun program Visual Basic dalam aplikasi utama Microsoft Office, yang ditujukan untuk aplikasi-aplikasi tertentu. Tidak terlalu banyak pengguna yang mencari VBA dalam pencarian di Google, sehingga persentasenya hanya berkisar antara 1.37% saja. Dalam bahasa Visual Basic biasanya akan membutuhkan bahasa pemrograman lain, seperti .NET (dot NET) yang juga termasuk ke dalam keluarga Visual Basic, yang semua dokumentasi penggunaannya ada di halaman Visual Basic Developer."
+      },
+      {
+        "id": 13,
+        "nama": "Ruby",
+        "img": "https://niagaspace.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2018/05/bahasa-pemrograman.jpg",
+        "info": "Yukihiro merupakan programmer asal jepang yang membuat bahasa komputer Ruby. Pada tahun 1993 Yukihiro ingin membuat sebuah bahasa skripting yang memiliki kemampuan orientasi objek. Pada saat itu pemrograman berorientasi objek sedang berkembang tetapi belum ada bahasa pemrograman scripting yang mendukung pemrograman objek. Ruby mempunyai struktur sintaks yang sangat sederhana sehingga banyak pengembang website menggunakan bahasa ini. Komunitas yang berkembang dengan dukungan teknologi dan dependency pihak ketiga yang lengkap menjadi faktor lain yang membuat ruby cukup populer. Persentase pencarian pada bahasa ini sekitar 1.7 %, tidak terlalu banyak, namun cukup membuat Ruby masuk ke daftar bahasa komputer yang banyak diminati."
+      },
+      {
+        "id": 14,
+        "nama": "Scala",
+        "img": "https://cdn.journaldev.com/wp-content/uploads/2015/03/Scala-Programming.png",
+        "info": "Terakhir, sejak di desain pada tahun 2001, Scala semakin berkembang menjadi bahasa pemrograman yang populer digunakan. Saat ini Scala sudah banyak dijadikan platform website seperti Akka dan Play Framework. Scala semakin berkembang seiring dengan perkembangan teknologi informasi seperti terbentuknya Apache Spark. Apache Spark dibuat dengan Scala yang dijadikan sebagai aplikasi untuk komputasi data berbasis klaster. Perusahaan besar seperti Twitter, LinkedIn, dan Netflix menjadi beberapa perusahaan besar yang sudah menggunakan Scala. Bahasa ini cukup populer namun hanya memiliki persentase pencarian sebanyak 1%, sangat kecil dibandingkan dengan bahasa komputer lain."
+      },
+      {
+        "id": 15,
+        "nama": "ActionScript",
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/ActionScript_icon.png",
+        "info": "Bahasa pemrograman ini dibuat berdasarkan ECMAScript yang biasanya digunakan untuk pengembangan website atau software berbasis Adobe Flash Playaer. Beberapa aplikasi basis data yang menggunakan ActionScript adalah Alpha Five. Pada awalnya bahasa pemrogramana ini di besarkan oleh Macromedia. Kini perusahaan Macromedia sudah dibeli oleh Adobe pada tahun 2015. Saat ini bahasa pemrograman ini dikembangkan oleh Adobe. Action Script sendiri mengalami beberapa update. Yang terakhir adalah Action Script 3.0. Update terbaru ini memiliki beberapa fitur yaitu file dari Action Script 3.0 dapa dibuat terpisah pada saat runtime. Action Script merupakan salah satu bahasa pemrograman yang cukup terkenal di Indonesia dilihat dari banyaknya developer yang berbasis Flash memakai Action Script untuk koding."
+      }
+    ]
+  }
